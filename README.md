@@ -4,13 +4,18 @@ A simple and interactive **Todo List web application** built using **HTML, CSS, 
 
 # Features
 - ➕ Add a todo with:
-      -Task name
-      -Due date
-      -Due time
+      1.Task name
+      2.Due date
+      3.Due time
+  
 -📋 Display todos in a clean grid layout
+
 -❌ Remove individual tasks after completion
+
 -💾 Persistent storage using Browser LocalStorage
+
 -Responsive layout using CSS Grid
+
 -simple and beginner-friendly UI
 
 # How it works
