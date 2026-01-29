@@ -4,6 +4,7 @@ A simple and interactive **Todo List web application** built using **HTML, CSS, 
 
 # Features
 - ➕ Add a todo with:
+  
       1.Task name
   
       2.Due date
